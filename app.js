@@ -26,3 +26,15 @@ function exibirAmigos() {
     }
 }
 
+function sortearAmigo() {
+    if (amigos.length === 0) {
+        alert("Por favor, adicione amigos para sortear.");
+        return;
+    }
+
+    let indiceSorteado = Math.floor(Math.random() * amigos.length);
+    let amigoSorteado = amigos[indiceSorteado];
+    
+    let resultado = document.getElementById('resultado');
+    resultado.innerHTML = `<p>O amigo sorteado é: <strong>${amigoSorteado}</strong></p>`;
+}
