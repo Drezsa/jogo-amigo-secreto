@@ -9,6 +9,8 @@
          <li>Depois adicione todos os nomes que deseja 
              clique em sortear</li>
          <li>O nome sorteado será exibido na tela.</li></ul>
+   <h2>🔗 Acessar Projeto</h2>
+   <a href="https://drezsa.github.io/jogo-amigo-secreto/">Clique Aqui</a>
    <h2>📝 Estrutura do projeto </h2>
    <p>📦 chalenge-amigo-secreto/ index.html/ style.css/ app.js/ assets/ amigo-secreto.png</p>
    <h2>🔧 Tecnologias </h2>
