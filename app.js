@@ -13,6 +13,8 @@ function adicionarAmigo() {
     
     amigos.push(amigo);
     document.getElementById('amigo').value = '';
+
+    exibirAmigos();
 }
 
 function exibirAmigos() {
@@ -36,5 +38,5 @@ function sortearAmigo() {
     let amigoSorteado = amigos[indiceSorteado];
     
     let resultado = document.getElementById('resultado');
-    resultado.innerHTML = `<p>O amigo sorteado é: <strong>${amigoSorteado}</strong></p>`;
+    resultado.innerHTML = `<p style="color: blue;">O amigo sorteado é: <strong>${amigoSorteado}</strong></p>`;
 }
