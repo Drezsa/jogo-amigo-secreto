@@ -10,7 +10,7 @@
              clique em sortear</li>
          <li>O nome sorteado será exibido na tela.</li></ul>
    <h2>🔗 Acessar Projeto</h2>
-   <a href="https://drezsa.github.io/jogo-amigo-secreto/">Clique Aqui</a>
+   <a href="https://drezsa.github.io/jogo-amigo-secreto/" target="_blank">Clique Aqui</a>
    <h2>📝 Estrutura do projeto </h2>
    <p>📦 chalenge-amigo-secreto/ index.html/ style.css/ app.js/ assets/ amigo-secreto.png</p>
    <h2>🔧 Tecnologias </h2>
@@ -25,5 +25,5 @@
       <li>Adicionar botão re reiniciar
       </li></ul>
    <h2>📃 Licença</h2>
-   <p>Está sob lincença<a href="https://opensource.org/license/mit">MIT</a></p>
+   <p>Está sob lincença<a href="https://opensource.org/license/mit" target="_blank">MIT</a></p>
 </section>
