@@ -8,7 +8,9 @@
          <li>Clique em adicionar para incluir o nome á lista.</li>
          <li>Depois adicione todos os nomes que deseja 
              clique em sortear</li>
-         <li>O nome sorteado será exibido na tela.</li></ul>
+         <li>O nome sorteado será exibido na tela.</li>
+      </ul>
+      <video src="assets/captura.mp4" controls width="360" height="640"></video>
    <h2>🔗 Acessar Projeto</h2>
    <a href="https://drezsa.github.io/jogo-amigo-secreto/" target="_blank">Clique Aqui</a>
    <h2>📝 Estrutura do projeto </h2>
@@ -19,11 +21,13 @@
       <li>CSS</li>
       <li>JavaScript</li>
       <li>Git e GitHub</li>
-      <li>GitHub Pages</li></ul>
+      <li>GitHub Pages</li>
+   </ul>
    <h2>⛏ Melhorias</h2>
    <ul>
       <li>Adicionar botão re reiniciar
-      </li></ul>
+      </li>
+   </ul>
    <h2>📃 Licença</h2>
    <p>Está sob lincença<a href="https://opensource.org/license/mit" target="_blank">MIT</a></p>
 </section>
