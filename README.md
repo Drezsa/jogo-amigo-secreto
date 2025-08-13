@@ -10,10 +10,7 @@
              clique em sortear</li>
          <li>O nome sorteado será exibido na tela.</li>
       </ul>
-      
-
-  https://github.com/user-attachments/assets/a4312e09-2fee-4006-8d77-90b0d973f85b
-
+   <video src="https://github.com/user-attachments/assets/a4312e09-2fee-4006-8d77-90b0d973f85b" controls widt="360"            height="640"></video> 
    <h2>🔗 Acessar Projeto</h2>
    <a href="https://drezsa.github.io/jogo-amigo-secreto/" target="_blank">Clique Aqui</a>
    <h2>📝 Estrutura do projeto </h2>
